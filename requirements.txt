@@ -1,0 +1,6 @@
+ollama
+llama-index
+docx2txt
+termcolor
+click
+asciitree
